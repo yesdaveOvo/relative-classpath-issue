@@ -1,0 +1,16 @@
+*.class
+*.log
+
+.idea
+META-INF/
+
+project/project
+project/target
+target
+
+.DS_Store
+
+
+.bsp
+.bloop
+
