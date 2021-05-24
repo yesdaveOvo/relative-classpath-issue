@@ -1,0 +1,5 @@
+FROM adoptopenjdk/openjdk8:alpine-slim
+
+COPY run.sh /run.sh
+
+CMD ["./run.sh"]
